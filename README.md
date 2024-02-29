@@ -1,2 +1,1 @@
-# DSA
-It has data structures and algorithms
+I am an expert at Machine learning and Artificial Intelligence
